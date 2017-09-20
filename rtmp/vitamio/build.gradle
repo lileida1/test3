@@ -11,6 +11,8 @@ android {
         minSdkVersion 7
         targetSdkVersion 19
     }
+
+
     sourceSets {
         main {
             manifest.srcFile 'AndroidManifest.xml'
